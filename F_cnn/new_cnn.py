@@ -196,3 +196,8 @@ plt.savefig('new4/val_acc.png')
 """
 from keras.utils import plot_model
 plot_model(model,to_file='/output/new4/model.png')
+"""
+git push -u origin master
+git remote add origin https://github.com/mohit8935/Final-Year-Project.git
+
+"""
